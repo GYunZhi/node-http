@@ -19,7 +19,7 @@ server.listen(3000, '0.0.0.0', function () {
 //     // 'content-type':'text/plain;charset=utf-8' //纯文本
 //     'content-type': 'text/html;charset=utf-8',
 //   })
-//   res.write('<h1>你好，欢迎学习node</h1>')
+//   res.write('<h1>你好，欢迎学习 Docker</h1>')
 //   res.end()
 // })
 
